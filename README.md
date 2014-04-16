@@ -1,17 +1,9 @@
-////////////////////////////////////////////////////////////////////////////////
-\|  _______    _____    ________   ______    ______   ______   ___    ___     |/
-\| /       \  /     \  |        | |      \  |      | /      \ |   |  |   |    |/
-\| |   _   |  |     |  |__    __| | ___  /  |_    _| |  |___/ |   |  |   |    |/
-\| |  / \  |   \  \/      |  |    |  |  /     |  |   |  |     |   |__|   |    |/
-\| |  | |  |   /\  \      |  |    |  |  \     |  |   |  |___  |    __    |    |/
-\| |  | |  |  |  \  |     |  |    |  |   |    |  |   |  |   \ |   |  |   |    |/
-\| |  \_/  |  |     |     |  |   _|  |   |_  _|  |_  |      | |   |  |   |    |/
-\| \_______/   \___/      |__|  |____|_____||______| \______/ |___|  |___|TM  |/
-\|                                                                            |/
-\|                      By: Joseph Rex a.k.a bl4ckdu5t                        |/
-\|                   email me for bugs: joerex@ostrich-dev.com                |/
-\|                      website: http://ostrich-dev.com                       |/
-\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+# OSTRICH-CMS
+
+By: Joseph Rex a.k.a bl4ckdu5t
+email me for bugs: [joerex@ostrich-dev.com](mailto:joerex@ostrich-dev.com)
+website: [ostrich-dev.com](http://ostrich-dev.com)
+
 
 README FILE
 ___________________________________________________________________
@@ -92,7 +84,7 @@ credentials below:
 	username: admin
 	password: password
 
-Login URL: http://your-ostrich-website/ost-admin
+Login URL: `http://your-ostrich-website/ost-admin`
 
 oncd logged in with this default credentials, user can make new users and delete
 the default account.
@@ -102,8 +94,7 @@ The rest of the website settings can be done from the config.php file
 Now you can enjoy ostrich! tadda! 
 
 Fork and star ostrich on github
-http://github.com/bl4ckdu5t/ostrich
+[http://github.com/bl4ckdu5t/ostrich](http://github.com/bl4ckdu5t/ostrich)
 
 I'm also a freelance web developer and you can give me your web projects to get
 your best and desired web applications/ websites.
-Some of my works can be found at http://ostrich-dev.com/#projects
