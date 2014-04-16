@@ -1,0 +1,99 @@
+/* Styles for front-end website page using ostrich cms by ostrich-dev |~ coded by Joseph Rex ~|
+@charset "utf-8";
+
+/* Global styles */
+body{
+	background: url(images/dark_wood.png);
+	font-family: Trebuchet MS, Arial, Verdana, Tahoma;
+	font-size: 12px;
+	margin: 0;
+	padding: 0;
+	color: #454547;
+	width: 100%;
+	height: 100%;
+}
+a{ text-decoration: none; color: inherit; }
+blockquote{
+	margin: 13px auto;
+	background-color: #ccc;
+	border-left: 3px solid #06c;
+	color: #444;
+	width: 500px;
+	padding: 10px 10px 10px 20px;
+	font-style: italic;
+	font-size: 16px;
+}
+ul, li{margin-left: 10px;}
+/* Spannable classes */
+.fl{float: left;}
+.fr{float: right;}
+/* Major ID selectors */
+#wrap{
+	background: url(images/subtle.jpg);
+	margin: 0;
+	width: 100%;
+	height: 100px;
+	border-bottom: 1px solid #555;
+	box-shadow: 0 0 10px #aaa, 0 0 20px #999;
+}
+#wrap h1{ padding: 1em 2em; font-size: 35px;}
+#wrap a:hover{color: #55f;}
+#usercontent{
+	background: #fff;
+	float: left;
+	margin: 3em 10px 10px 3em;
+	width: 900px;
+	height: 1000px;
+}
+#widgets{
+	height: 1000px;
+	float: right;
+	margin: 3em 3em 10px 10px;
+	width: 300px;
+}
+.widgetBox{
+	width: 300px;
+	height: 200px;
+	background: #fff;
+	border-radius: 10px;
+	margin-bottom: 1em;
+}
+.boxTitle{
+	background: url(images/greg.png);
+	padding: 10px;
+	width: 280px;
+	height: 20px;
+	border-top-right-radius: 5px;
+	border-top-left-radius: 5px;
+	color: #fff;
+	font-size: 20px;
+	font-weight: bold;
+}
+.boxContent{padding: 10px;}
+#footer{ text-align: center; margin-top: 1em; margin-bottom: 1em;}
+#footer a{border-bottom: 1px dashed #454547;}
+#menu{
+	background: url(images/greg.png);
+	width: 100%;
+	height: 45px;
+}
+#menulist a{color: inherit; text-decoration: none;}
+#PageContents{
+	margin: 2em;
+	text-align: justify;
+}
+#PageContents a{color: #06f;}
+#PageContents a:hover{color: #66f; border-bottom: 1px dashed #66f;}
+/* Classes */
+.menulist{
+	list-style: none;
+	color: #ddd;
+	font-size: 16px;
+}
+.menulist li{ padding: 14px 20px 20px 1.5em; display: table-cell;}
+.menulist img{ width: 30px; height: 20px;}
+.menulist a:hover{font-size: 19px; color: #aaa; box-shadow: 0 0 20px #000;}
+.menulist a:hover img{width: 34px; height: 22px;}
+.social{list-style: none;}
+.social li{display: table-cell; padding: 20px;}
+.seperator{color: #000; border: 0; border-top: 1px solid #ddd;}
