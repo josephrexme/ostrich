@@ -98,4 +98,3 @@ Fork and star ostrich on github
 
 I'm also a freelance web developer and you can give me your web projects to get
 your best and desired web applications/ websites.
-Some of my works can be found at http://ostrich-dev.com/#projects
