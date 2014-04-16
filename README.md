@@ -1,7 +1,9 @@
 # OSTRICH-CMS
 
-By: Joseph Rex a.k.a bl4ckdu5t
-email me for bugs: [joerex@ostrich-dev.com](mailto:joerex@ostrich-dev.com)
+By: Joseph Rex a.k.a bl4ckdu5t.
+
+email me for bugs: [joerex@ostrich-dev.com](mailto:joerex@ostrich-dev.com).
+
 website: [ostrich-dev.com](http://ostrich-dev.com)
 
 
