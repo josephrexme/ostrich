@@ -4,7 +4,9 @@ By: Joseph Rex a.k.a bl4ckdu5t.
 
 email me for bugs: [joerex@ostrich-dev.com](mailto:joerex@ostrich-dev.com).
 
-website: [ostrich-dev.com](http://ostrich-dev.com).
+
+website: [ostrich-dev.com](http://ostrich-dev.com)
+
 
 
 REQUIREMENTS
@@ -85,7 +87,7 @@ the default account.
 
 The rest of the website settings can be done from the config.php file
 
-Now you can enjoy ostrich! tadda! 
+Now you can enjoy ostrich cms! tadda! 
 
 Fork and star ostrich on github
 [http://github.com/bl4ckdu5t/ostrich](http://github.com/bl4ckdu5t/ostrich)
