@@ -1,17 +1,11 @@
 # OSTRICH-CMS
 
-By: Joseph Rex a.k.a bl4ckdu5t
-email me for bugs: [joerex@ostrich-dev.com](mailto:joerex@ostrich-dev.com)
-website: [ostrich-dev.com](http://ostrich-dev.com)
+By: Joseph Rex a.k.a bl4ckdu5t.
 
+email me for bugs: [joerex@ostrich-dev.com](mailto:joerex@ostrich-dev.com).
 
-README FILE
-___________________________________________________________________
+website: [ostrich-dev.com](http://ostrich-dev.com).
 
-If you have not gotten this copy of ostrich-dev from the main 
-source (http://ostrich-dev.com/cms),and you'll like to make
-reference to it or check for it some other time, you can always the
-ostrich cms homepage -> http://ostrich-dev.com/cms
 
 REQUIREMENTS
 ____________________________________________________________________
