@@ -12,11 +12,11 @@ website: [ostrich-dev.com](http://ostrich-dev.com)
 REQUIREMENTS
 ____________________________________________________________________
 
-..* A web server like Apache
-..* PHP version >= 5.3.7 for best results with database password hashing
-..* MySQL server
-..* A web browser
-..* A human being with brains :P
+* A web server like Apache
+* PHP version >= 5.3.7 for best results with database password hashing
+* MySQL server
+* A web browser
+* A human being with brains :P
 
 
 DOCUMENTATION
